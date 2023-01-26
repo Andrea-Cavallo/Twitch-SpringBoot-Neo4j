@@ -19,3 +19,6 @@ https://medium.com/neo4j/introducing-the-new-twitch-sandbox-bdda36a946bb
 # Technologies
 - SpringBoot ( Webflux ) 
 - Using NoSQl db Neo4j ) 
+
+#Please Note 
+This project is only for study purposes, I will continue to push,add, modify methods when I have time and inclination =)
