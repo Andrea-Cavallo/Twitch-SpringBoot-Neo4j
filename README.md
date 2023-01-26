@@ -1,5 +1,4 @@
-<span style="color:red"># Twitch</span>
-
+<p class="color:red"># Twitch</p>
 A project using Spring Boot and Neo4j could be a web-based application for managing and analyzing a graph-based database. Spring Boot provides the framework for creating a stand-alone Java application with a variety of useful features such as dependency injection, automatic configuration, and easy access to database resources. Neo4j is a popular graph database management system that can be used to model and query complex relationships between data. Together, these technologies can be used to build an application that allows users to create and visualize connections between different data elements, such as people, organizations, and events. This application could be used in a variety of fields such as social network, recommendation system, fraud detection and more.
 
 <span style="color:red"># Why Spring Webflux?</span>
